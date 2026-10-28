@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/pyatakov/india-agriculture-crop-production
+https://www.kaggle.com/datasets/pavansaipothala/cgwb-for-ground-water-level-predictor
